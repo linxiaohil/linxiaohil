@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I am a student majoring in artificial intelligence in Nanjing University of Aeronautics and Astronautics(NUAA), and I an learning to use GitHub.
+
+- 🔭 I want to make a personal homepage or blog at present.
+- 📫 You can contact me through the email in my profile.
+
+
 <!--
 **linxiaohil/linxiaohil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
